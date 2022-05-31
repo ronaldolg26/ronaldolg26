@@ -1,7 +1,7 @@
 ## 🖖🏼 Saudações,  bem-vindo ao meu Github
 
 
-🌱 Estou atualmete embarcado no mundo da Análise e Ciência de Dados.
+🌱 Estou atualmete embarcando no mundo da Análise e Ciência de Dados.
 
 <div align="left">
   <a href="https://github.com/ronaldolg26">
